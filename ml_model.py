@@ -8,3 +8,6 @@ def model2():
 
 def model3():
     print("This is model 3")
+
+print("model2 is better than model1")
+
